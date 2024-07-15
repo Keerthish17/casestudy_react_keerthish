@@ -860,22 +860,22 @@ const Home = () => {
                                         Useful link
                                     </h5>
                                     <div class="info_links_menu">
-                                        <a class="active" href="index.html">
+                                        <a class="active" href="/">
                                             Home
                                         </a>
-                                        <a href="about.html">
+                                        <a href="/about">
                                             About
                                         </a>
-                                        <a href="treatment.html">
+                                        <a href="/treatment">
                                             Treatment
                                         </a>
-                                        <a href="doctor.html">
+                                        <a href="/doctors">
                                             Doctors
                                         </a>
-                                        <a href="testimonial.html">
+                                        <a href="/testimonal">
                                             Testimonial
                                         </a>
-                                        <a href="contact.html">
+                                        <a href="/contact">
                                             Contact us
                                         </a>
                                     </div>
